@@ -13,13 +13,14 @@ pettingzoo==1.23.1
 
 
 win11补充：
-0.install python
-1.安装conda,创建一个虚拟环境
-2.使用conda安装pytorch ： conda install pytorch torchvision torchaudio cpuonly -c pytorch
+
+0. install python
+1. 安装conda,创建一个虚拟环境
+2. 使用conda安装pytorch ： conda install pytorch torchvision torchaudio cpuonly -c pytorch
 3. pip install gym==0.26.2
 4. pip install pettingzoo==1.23.1
 5. pip install matplotlib
-6.  pip install pygame
+6. pip install pygame
 
 
 后续在notebook上执行代码即可。
